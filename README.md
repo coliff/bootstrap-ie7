@@ -2,6 +2,13 @@
 
 Bootstrap 3 drops support for Internet Explorer 7, but if you need support for IE7 simply add this conditional CSS and support will be reinstated.
 
+```html
+<!--[if lt IE 8]>
+    <link href="/css/bootstrap-ie7.css" rel="stylesheet">
+<![endif]-->
+```
+
+
 ##FAQS
 
 Q. Do I need to make any changes to my HTML to add support for bootstrap3-ie7?  
