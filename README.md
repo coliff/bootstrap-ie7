@@ -14,15 +14,17 @@ Bootstrap 3 drops support for Internet Explorer 7, but you can add it back by si
 
 ### FAQS
 
-* Q. Do I need to make any changes to my HTML to add support for bootstrap3-ie7?
- 
+* Q. Do I need to make any changes to my HTML to add support for bootstrap3-ie7? 
+
   A. Nope! Just include the conditional IE7 stylesheet and you're ready to go!
 
 
-* Q. What about rounded corners, box shadows and gradients for IE7. How can I get those?
- 
-  A. I recommend CCS3Pie for adding support for those CSS3 properties to older IE. http://css3pie.com/
+* Q. What about rounded corners, box shadows and gradients for IE7. How can I get those? 
+
+  A. I recommend CCS3Pie for adding support for those CSS3 properties to older IE. http://css3pie.com/. 
+  
+     If you use that you can add this to your CSS to quickly add border-radius https://gist.github.com/coliff/5618329
 
 
 ### Known Issues
-- This is not complete yet. I'm working on fixing some issues to match the release Bootstrap 3 CSS changes.
+- This is not complete yet. I'm working on fixing some issues to match the release Bootstrap 3 CSS changes. Please open a pull request If you've fixed something.
