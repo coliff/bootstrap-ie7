@@ -9,7 +9,7 @@ Bootstrap 3 drops support for Internet Explorer 7, but you can add it back by si
 ```
 
 ### Requirements
-- Boostrap 3 uses the box-sizing property for layouts which is not natively supported by IE7. The polyfill 'boxsizing.htc' is REQUIRED: https://github.com/Schepp/box-sizing-polyfill
+- Boostrap 3 uses the box-sizing property for layouts which is not natively supported by IE7. The polyfill 'boxsizing.htc' is suggested: https://github.com/Schepp/box-sizing-polyfill
 
 
 ### FAQS
@@ -22,9 +22,9 @@ Bootstrap 3 drops support for Internet Explorer 7, but you can add it back by si
 * Q. What about rounded corners, box shadows and gradients for IE7. How can I get those? 
 
   A. I recommend CCS3Pie for adding support for those CSS3 properties to older IE. http://css3pie.com/. 
-  
      If you use that you can add this to your CSS to quickly add border-radius https://gist.github.com/coliff/5618329
 
 
 ### Known Issues
-- This is not complete yet. I'm working on fixing some issues to match the release Bootstrap 3 CSS changes. Please open a pull request If you've fixed something.
+- This is not complete yet. I'm working on fixing some issues to match the final Bootstrap 3.0 CSS changes. Please open a pull request If you've fixed something.
+- Some folks have reported issues with using the boxsizing.htc polyfill and the media queries polyfill.
