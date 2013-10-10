@@ -24,7 +24,11 @@ Bootstrap 3 drops support for Internet Explorer 7, but you can add it back by si
   A. I recommend CCS3Pie for adding support for those CSS3 properties to older IE. http://css3pie.com/. 
      If you use that you can add this to your CSS to quickly add border-radius https://gist.github.com/coliff/5618329
 
+* Q. What about Internet Explorer 6?
+
+  A. Although this CSS does not include IE6-specific fixes, it does fix the webfonts icon, so it's worthwhile using the conditional code 'if lt IE 8' rather than 'if IE 7'.
+
 
 ### Known Issues
 - This is not complete yet. I'm working on fixing some issues to match the final Bootstrap 3.0 CSS changes. Please open a pull request If you've fixed something.
-- Some folks have reported issues with using the boxsizing.htc polyfill and the media queries polyfill.
+- As this is only a CSS stylesheet there may be problems with using Bootstrap 3's JavaScript in IE7.
