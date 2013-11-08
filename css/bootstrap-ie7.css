@@ -9,6 +9,7 @@ input[type="radio"],input[type="checkbox"]{margin-top:0}
 .help-block{display:inline;zoom:1}
 .form-horizontal .form-group{zoom:1}
 .dropdown-toggle{margin-bottom:-3px}
+.dropdown-menu .divider{width:100%;margin:-5px 0 5px}
 ul .list-group-item{list-style:none}
 .glyphicon{text-decoration:inherit;line-height:normal}
 .glyphicon-adjust{zoom:expression(this.runtimeStyle['zoom']='1',this.innerHTML='&#xe063;')}
