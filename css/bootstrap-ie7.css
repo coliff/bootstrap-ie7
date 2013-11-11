@@ -3,6 +3,7 @@ audio,canvas,video{display:inline;zoom:1}
 html{font-size:100%}
 img{width:auto;height:auto;-ms-interpolation-mode:bicubic}
 button,input{overflow:visible}
+.container{zoom:1}
 .row{zoom:1}
 .dl-horizontal{zoom:1}
 input[type="radio"],input[type="checkbox"]{margin-top:0}
@@ -10,6 +11,7 @@ input[type="radio"],input[type="checkbox"]{margin-top:0}
 .form-horizontal .form-group{zoom:1}
 .dropdown-toggle{margin-bottom:-3px}
 .dropdown-menu .divider{width:100%;margin:-5px 0 5px}
+.list-group{margin-left:0}
 ul .list-group-item{list-style:none}
 .glyphicon{text-decoration:inherit;line-height:normal}
 .glyphicon-adjust{zoom:expression(this.runtimeStyle['zoom']='1',this.innerHTML='&#xe063;')}
