@@ -13,6 +13,7 @@ input[type="radio"],input[type="checkbox"]{margin-top:0}
 .dropdown-menu .divider{width:100%;margin:-5px 0 5px}
 .list-group{margin-left:0}
 ul .list-group-item{list-style:none}
+.sr-only{clip:rect(0 0 0 0)}
 .glyphicon{text-decoration:inherit;line-height:normal}
 .glyphicon-adjust{zoom:expression(this.runtimeStyle['zoom']='1',this.innerHTML='&#xe063;')}
 .glyphicon-align-center{zoom:expression(this.runtimeStyle['zoom']='1',this.innerHTML='&#xe053;')}
