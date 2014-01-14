@@ -1,0 +1,22 @@
+{
+        "name": "bootstrap-ie7",
+        "description": "Adds support for Internet Explorer 7 conditional CSS (Bootstrap 3)",
+        "version": "3.0.3",
+        "keywords": [
+                "ie7",
+                "bootstrap"
+        ],
+        "authors": [
+                {
+                        "name": "C Oliff",
+                        "url": "http://twitter.com/christianoliff"
+                }
+        ],
+        "licenses": [
+                {
+                        "type": "MIT",
+                        "url": "http://www.opensource.org/licenses/mit-license.php"
+                }
+        ],
+        "homepage": "http://christianoliff.com"
+}
