@@ -6,17 +6,10 @@
                 "ie7",
                 "bootstrap"
         ],
-        "authors": [
-                {
-                        "name": "C Oliff",
-                        "url": "http://twitter.com/christianoliff"
-                }
-        ],
-        "licenses": [
-                {
-                        "type": "MIT",
-                        "url": "http://www.opensource.org/licenses/mit-license.php"
-                }
-        ],
+        "author": "C Oliff",
+        "repository": {
+                "type": "git",
+                "url": "git://github.com/coliff/bootstrap-ie7"
+        },
         "homepage": "http://christianoliff.com"
 }
