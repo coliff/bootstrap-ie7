@@ -34,5 +34,5 @@ Bootstrap 3 drops support for Internet Explorer 7, but you can add it back by si
   
 
 ### Known Issues
-- This is not complete yet. I'm working on fixing some issues to match the final Bootstrap 3.0.1 CSS changes. Please open a pull request If you've fixed something.
+- This is not complete yet. I'm working on fixing some issues to match the final Bootstrap 3.1.0 CSS changes. Please open a pull request If you've fixed something.
 - As this is only a CSS stylesheet there may be problems with using Bootstrap 3's JavaScript in IE7.
