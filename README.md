@@ -9,7 +9,7 @@ Bootstrap 3 drops support for Internet Explorer 7, but you can add it back by si
 ```
 
 ### Requirements
-- Boostrap 3 uses the box-sizing property for layouts which is not natively supported by IE7. The polyfill 'boxsizing.htc' is required: https://github.com/Schepp/box-sizing-polyfill
+- Bootstrap 3 uses the box-sizing property for layouts which is not natively supported by IE7. The polyfill 'boxsizing.htc' is required: https://github.com/Schepp/box-sizing-polyfill
 
 
 ### FAQS
