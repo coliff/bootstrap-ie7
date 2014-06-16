@@ -3,7 +3,7 @@ audio,canvas,video{display:inline;zoom:1}
 html{font-size:100%}
 img{width:auto;height:auto;-ms-interpolation-mode:bicubic}
 button,input{overflow:visible}
-.container{zoom:1}
+.container,.container-fluid{zoom:1}
 .row{zoom:1}
 .dl-horizontal{zoom:1}
 input[type="radio"],input[type="checkbox"]{margin-top:0}
