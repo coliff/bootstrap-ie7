@@ -28,12 +28,8 @@ Bootstrap 3 drops support for Internet Explorer 7, but you can add it back by si
 
   A. Although this CSS does not include IE6-specific fixes, it does fix the webfonts icon, so it's worthwhile using the conditional code 'if lt IE 8' rather than 'if IE 7'.
 
-* Q. Does this include add support for all the new Glyphicons included in Bootstrap 3.0.1?
-
-  A. Yep!
-  
 
 ### Known Issues
-- This is not complete yet. I'm working on fixing some issues to match the final Bootstrap 3.1.1 CSS changes. Please open a pull request If you've fixed something.
+- This is not complete yet. I'm working on fixing some issues to match the final Bootstrap 3.2 CSS changes. Please open a pull request If you've fixed something.
 - The boxsizing.htc polyfill is buggy and generally doesn't work very well. I'm looking at refactoring the grids CSS to match Bootstrap 2.x so that the polyfill is not required.
 - As this is only a CSS stylesheet there may be problems with using Bootstrap 3's JavaScript in IE7.
