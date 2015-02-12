@@ -1,5 +1,7 @@
 #Bootstrap 3 for IE7 (Beta)
 
+[![Join the chat at https://gitter.im/coliff/bootstrap-ie7](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/coliff/bootstrap-ie7?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Bootstrap 3 drops support for Internet Explorer 7, but you can add it back by simply adding this conditional CSS.
 
 ```html
