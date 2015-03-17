@@ -7,6 +7,7 @@ button,input{overflow:visible}
 .row{zoom:1}
 .dl-horizontal{zoom:1}
 input[type="radio"],input[type="checkbox"]{margin-top:0}
+.breadcrumb>li{display:inline;zoom:1}
 .help-block{display:inline;zoom:1}
 .form-horizontal .form-group{zoom:1}
 .dropdown-toggle{margin-bottom:-3px}
