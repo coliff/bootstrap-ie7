@@ -38,3 +38,7 @@ Bootstrap 3 drops support for Internet Explorer 7, but you can add it back by si
 - This is not complete yet. I'm working on fixing some issues to match the final Bootstrap 3.3 CSS changes. Please open a pull request If you've fixed something.
 - The boxsizing.htc polyfill is buggy and generally doesn't work very well. I'm looking at refactoring the grids CSS to match Bootstrap 2.x so that the polyfill is not required.
 - As this is only a CSS stylesheet there may be problems with using Bootstrap 3's JavaScript in IE7.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/coliff/bootstrap-ie7/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
