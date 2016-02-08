@@ -1,7 +1,7 @@
 {
         "name": "bootstrap-ie7",
         "description": "Adds support for Internet Explorer 7 conditional CSS (Bootstrap 3)",
-        "version": "3.3.4",
+        "version": "3.3.6",
         "keywords": [
                 "ie7",
                 "bootstrap"
@@ -11,5 +11,5 @@
                 "type": "git",
                 "url": "git://github.com/coliff/bootstrap-ie7"
         },
-        "homepage": "http://github.com/coliff/bootstrap-ie7"
+        "homepage": "https://github.com/coliff/bootstrap-ie7"
 }
