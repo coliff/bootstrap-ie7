@@ -39,6 +39,4 @@ Bootstrap 3 dropped support for Internet Explorer 7, but you can add it back by 
 - As this is only a CSS stylesheet there may be problems with using Bootstrap 3's JavaScript in IE7.
 - Please open a pull request If you've fixed something.
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/coliff/bootstrap-ie7/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
 <a href='http://ko-fi.com?i=1295NGMK1L2T7' target='_blank'><img style='border:0px;width:180px;' src='https://az743702.vo.msecnd.net/cdn/btn1.png' border='0' alt='Buy me a coffee at ko-fi.com' /></a> 
