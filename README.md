@@ -1,4 +1,4 @@
-#Bootstrap 3 for IE7 (Beta)
+#Bootstrap 3 for IE7
 
 [![Join the chat at https://gitter.im/coliff/bootstrap-ie7](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/coliff/bootstrap-ie7?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
