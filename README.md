@@ -33,7 +33,7 @@ Bootstrap 3 dropped support for Internet Explorer 7, but you can add it back by 
 
   A. Although this CSS does not include IE6-specific fixes, it does fix the webfonts icon, so it's worthwhile using the conditional code 'if lt IE 8' rather than 'if IE 7'.
 
-* Q. What about Boostrap 4?
+* Q. What about Bootstrap 4?
  
   A. I'm working on a new CSS file to add Internet Explorer 8 support to Bootstrap 4. Check it out at: https://github.com/coliff/bootstrap-ie8
 
