@@ -29,6 +29,10 @@ Bootstrap 3 dropped support for Internet Explorer 7, but you can add it back by 
   A. I recommend CCS3Pie for adding support for those CSS3 properties to older IE. http://css3pie.com/. 
      If you use that you can add this to your CSS to quickly add border-radius https://gist.github.com/coliff/5618329
 
+* Q. Is the minified CSS available on a CDN?
+
+  A. Yes, thanks to our JSDelivr: https://cdn.jsdelivr.net/gh/coliff/bootstrap-ie7@3.3.7/css/bootstrap-ie7.min.css
+
 * Q. What about Internet Explorer 6?
 
   A. Although this CSS does not include IE6-specific fixes, it does fix the webfonts icon, so it's worthwhile using the conditional code 'if lt IE 8' rather than 'if IE 7'.
