@@ -26,12 +26,12 @@ Bootstrap 3 dropped support for Internet Explorer 7, but you can add it back by 
 
 * Q. What about rounded corners, box shadows and gradients for IE7. How can I get those? 
 
-  A. I recommend CCS3Pie for adding support for those CSS3 properties to older IE. http://css3pie.com/. 
+  A. You could use CCS3Pie for adding support for those CSS3 properties to older IE. http://css3pie.com/. 
      If you use that you can add this to your CSS to quickly add border-radius https://gist.github.com/coliff/5618329
 
-* Q. Is the minified CSS available on a CDN?
+* Q. Is the CSS available on a CDN?
 
-  A. Yes, thanks to our JSDelivr: https://cdn.jsdelivr.net/gh/coliff/bootstrap-ie7@3.3.7/css/bootstrap-ie7.min.css
+  A. Yes, thanks to JSDelivr: https://cdn.jsdelivr.net/gh/coliff/bootstrap-ie7/css/bootstrap-ie7.min.css, however the box sizing polyfill requires the CSS to be hosted locally so the layout will be broken if you serve the CSS from a CDN.
 
 * Q. What about Internet Explorer 6?
 
@@ -39,7 +39,8 @@ Bootstrap 3 dropped support for Internet Explorer 7, but you can add it back by 
 
 * Q. What about Bootstrap 4?
  
-  A. I'm working on a new CSS file to add Internet Explorer 8 support to Bootstrap 4. Check it out at: https://github.com/coliff/bootstrap-ie8
+  A. I've created a couple of stylesheets for Internet Explorer 8 and 9 to add support for Bootstrap 4. Check it out at: https://github.com/coliff/bootstrap-ie8
+  
 
 ### Known Issues
 - The boxsizing.htc polyfill can be  a little bit buggy. Please make sure you follow the instructions for using that carefully.
