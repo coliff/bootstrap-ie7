@@ -1,6 +1,7 @@
 # Bootstrap 3 for IE7
 
-[![Join the chat at https://gitter.im/coliff/bootstrap-ie7](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/coliff/bootstrap-ie7?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/coliff/bootstrap-ie7/master/LICENSE)
+[![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/coliff)
 
 Bootstrap 3 dropped support for Internet Explorer 7, but you can add it back by simply adding this conditional CSS.
 
