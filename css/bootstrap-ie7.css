@@ -5,12 +5,13 @@
 .input-group,.row,.content{box-sizing:border-box;behavior:url(/js/boxsizing.htc)}
 audio,canvas,video{display:inline;zoom:1}
 html{font-size:100%}
-img{width:auto;height:auto;-ms-interpolation-mode:bicubic}
+img{width:auto;height:auto;-ms-interpolation-mode:bicubic;zoom:1}
 button,input{overflow:visible}
 .container,.container-fluid{zoom:1}
-.row{zoom:1}
+.row{clear:both;display:block;width:100%;zoom:1}
 .dl-horizontal{zoom:1}
 input[type="radio"],input[type="checkbox"]{margin-top:0}
+input,button,select,textarea{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif}
 .breadcrumb>li{display:inline;zoom:1}
 .help-block{display:inline;zoom:1}
 .form-horizontal .form-group{zoom:1}
