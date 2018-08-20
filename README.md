@@ -2,6 +2,7 @@
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/coliff/bootstrap-ie7/master/LICENSE)
 [![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/coliff)
+[![github-stars-image](https://img.shields.io/github/stars/coliff/bootstrap-ie7.svg?label=github%20stars)](https://github.com/coliff/bootstrap-ie7)
 
 Bootstrap 3 dropped support for Internet Explorer 7, but you can add it back by simply adding this conditional CSS.
 
