@@ -16,6 +16,22 @@ Bootstrap 3 dropped support for Internet Explorer 7, but you can add it back by 
 
 * Bootstrap 3 uses the box-sizing property for layouts which is not natively supported by IE7. The polyfill 'boxsizing.htc' is required: https://github.com/Schepp/box-sizing-polyfill
 
+### What does this fix?
+
+* Glyphicons do not display
+* Layout issues (with border-box via the `boxsizing.htc` polyfill)
+* `.list-group-item` displays incorrectly with bullet points
+* [Haslayout](https://www.sitepoint.com/internet-explorer-haslayout-property/) bug
+* `.dropdown-menu .divider` not displaying
+* `.sr-only` clip syntax
+* hr margin top and margin bottom spacing fix
+
+### What does this not fix?
+
+* Percentage width rounding issue [Info](http://stackoverflow.com/questions/1309964/how-to-fix-internet-explorer-7-bug-when-using-percentage-widths-for-layout?answertab=active#tab-top)
+* As this is only a CSS stylesheet there may be problems with using Bootstrap 3's JavaScript in IE7.
+* Some elements rely on pseudo-selectors which IE7 does not support (first-child, last-child etc) 
+
 ### FAQS
 
 * Q. Do I need to make any changes to my HTML to add support for bootstrap3-ie7?
@@ -43,8 +59,6 @@ Bootstrap 3 dropped support for Internet Explorer 7, but you can add it back by 
 
   A. I've created a couple of stylesheets for Internet Explorer 8 and 9 to add support for Bootstrap 4. Check it out at: https://github.com/coliff/bootstrap-ie8
 
-### Known Issues
+### Troubleshooting
 
 * The boxsizing.htc polyfill can be a little bit buggy. Please make sure you follow the instructions for using that carefully.
-* As this is only a CSS stylesheet there may be problems with using Bootstrap 3's JavaScript in IE7.
-* Please open a pull request If you've fixed something.
