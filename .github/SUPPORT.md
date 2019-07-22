@@ -4,4 +4,4 @@ Before posting an issue regarding a problem using this with your site please be 
 * [ ] I am using the latest release of bootstrap4-ie7
 * [ ] I have provided a screenshot and/or link to my site/page with issue
 * [ ] I have added the x-ua-compatible / ie=edge meta tag to the head
-* [ ] I am using the latest Bootstrap 3.3.7 CSS file
+* [ ] I am using the latest Bootstrap 3.4.1 CSS file
