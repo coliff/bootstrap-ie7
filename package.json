@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap-ie7",
+  "version": "3.4.0",
+  "description": "Bootstrap 3 for Internet Explorer 7",
+  "keywords": [
+    "bootstrap",
+    "ie",
+    "polyfill"
+  ],
+  "homepage": "https://github.com/coliff/bootstrap-ie7#readme",
+  "bugs": {
+    "url": "https://github.com/coliff/bootstrap-ie7/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coliff/bootstrap-ie7.git"
+  },
+  "license": "MIT",
+  "author": "Christian Oliff",
+  "main": "css/bootstrap-ie7.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "browserslist": [
+    "IE 7"
+  ]
+}
